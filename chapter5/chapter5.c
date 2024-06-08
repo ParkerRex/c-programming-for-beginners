@@ -44,10 +44,5 @@ int main()
 	printf("%c%c needs %d pencils, %d notebooks, and 1 lunchbox\n", firstInitial, middleInitial,number_of_pencils,number_of_notebooks);
 	printf("The total cost is $%.2f\n",
 		number_of_pencils*pencils + number_of_notebooks*notebooks + lunchbox);
-
 	return 0;
 }
-
-
-
-
